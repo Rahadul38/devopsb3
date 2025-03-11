@@ -1,3 +1,2 @@
-This is first line!
-Added 2nd line as update
-3rd Line
+This is first line and now updated!
+
